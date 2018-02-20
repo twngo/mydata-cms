@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 資源工具
-permalink: /resource-tw/
+permalink: /resource/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

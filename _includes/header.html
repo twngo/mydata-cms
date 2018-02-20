@@ -1,18 +1,13 @@
 <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">Let's go</a>
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">something</a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
           <ul class="right hide-on-med-and-down">
             <li><a href="{{ "/" | relative_url }}">首頁 </a></li>
-            {% if page_paths %}
-                {% for path in page_paths %}
-                    {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
-                    <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}              
+            <li><a href="/about">介紹</a></li>
+            <li><a href="/issues">關注議題</a></li>  
+            <li><a href="/resource">資源工具</a></li>              
           </ul>
 
           <ul id="nav-mobile" class="side-nav">

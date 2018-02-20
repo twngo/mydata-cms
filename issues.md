@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 關注議題
-permalink: /issues-tw/
+permalink: /issues/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
