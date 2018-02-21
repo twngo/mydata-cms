@@ -7,6 +7,12 @@ permalink: /resource/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
+努力作最齊全的個資保護中文資訊站，當然是以最高標準為要求，提供具參考與學習價值的資源工具。
+
+    <h5>GDPR</h5>
+    <h5>Responsible Data</h5>
+ <div class="divider"></div>
+   
     <h5>Shadow</h5>
     <div class="row">
               <div class="col s12 m4 l2">
