@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 介紹
+title: MyData 介紹
 permalink: /about/
 ---
 
