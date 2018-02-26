@@ -2,15 +2,20 @@
     <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}"></a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+     
          <ul class="left hide-on-med-and-down">
             <li><a href="{{ "/" | relative_url }}"><i class="fas fa-home"></i></a></li>
             <li><a href="https://netpolicy.taipei.io"><i class="fab fa-medium-m"></i></a></li>
-            <li><a href="https://keybase.io/twngoxyz"><i class="fas fa-key"></i></a><li>
             <li><a href="https://twitter.com/oktaiwanonline"><i class="fab fa-twitter"></i></a></li>
         </ul>
-          <ul class="right hide-on-med-and-down">
+          <ul class="right hide-on-med-and-down" >
             <li><a href="/about">本站介紹</a></li>
-            <li><a href="/issues">關注議題</a></li>  
+            <li><a href="/issues">關注議題</a>
+              <ul class="dropdown">
+                  <li><a href="/about">Item One</a></li>
+                  <li><a href="/issues">Item Two</a></li>
+                  <li><a href="/resource">Item Three</a></li> 
+              </ul></li>
             <li><a href="/resource">資源工具</a></li>              
           </ul>
 
@@ -29,3 +34,4 @@
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
 </nav>
+
