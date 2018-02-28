@@ -6,54 +6,25 @@ permalink: /resource/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-努力作最齊全的個資保護中文資訊站，當然是以最高標準為要求，提供具參考與學習價值的資源工具。
+先整理一下這區的架構，未來可能以 rss /grid  方式來放外站的消息吧？ 
 
-    <h5>GDPR</h5>
-    <h5>Responsible Data</h5>
- <div class="divider"></div>
-   
-    <h5>Shadow</h5>
-    <div class="row">
-              <div class="col s12 m4 l2">
-                <p class="z-depth-0 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-1 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-2 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-3 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-4 shadow-demo"></p>
-              </div>
-              <div class="col s12 m4 l2">
-                <p class="z-depth-5 shadow-demo"></p>
-              </div>
-    </div>
-</div>
+以最高標準為要求，努力作最齊全的個資保護中文資訊站，提供具參考與學習價值的資源工具。
+
 <div class="divider"></div>
-<div class="section">
-    <h5>Columns</h5>
-    <div class="row">
-            <div class="col grid-example s12 blue lighten-1"><span class="flow-text">s12</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
-            <div class="col grid-example s12 m4 l8 teal lighten-1"><span class="flow-text">s12 m4 l8</span></div>
-            <div class="col grid-example s12 m4 l2 teal lighten-1"><span class="flow-text">s12 m4 l2</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-            <div class="col grid-example s12 m6 l3 purple lighten-3"><span class="flow-text">s12 m6 l3</span></div>
-    </div>
-</div>
+##### GDPR 歐盟一般性個資保護規範
+
+ - 法規全文中譯
+ - 文章介紹（from Taipei.IO 網路政策）
+
+
 <div class="divider"></div>
-<div class="section">
-    <h5>Offset</h5>
-    <div class="row">
-            <div class="col s12 grid-example"><span class="flow-text">This div is 12-columns wide on all screen sizes</span></div>
-            <div class="col s6 offset-s6 grid-example"><span class="flow-text">6-columns (offset-by-6)</span></div>
-    </div>
-</div>
+##### Responsible Data
+ - 相關中文介紹
+ -   
+ 
+
+<div class="divider"></div>
+##### 台灣個人資料保護法專區 
+  - 還不知道要放什麼
+  - 
+
