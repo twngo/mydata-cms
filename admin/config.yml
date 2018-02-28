@@ -20,6 +20,6 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {name: title, label: Title}
-      - {name: layout, label: post}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "tag", name: "tags", widget: "string"}
       - {name: body, label: Body, widget: markdown}
