@@ -1,6 +1,10 @@
 backend:
   name: github
   repo: twngo/mydata-cms
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
+       
 
 publish_mode: editorial_workflow
 
@@ -16,6 +20,6 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {name: title, label: Title}
-      - {name: layout, label: post}
+      - {name: layout, widget: post}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {name: body, label: Body, widget: markdown}
