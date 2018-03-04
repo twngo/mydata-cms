@@ -25,24 +25,19 @@ permalink: /issues/
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>中華電信</td>
+                  <td>台灣本地新聞媒體</td>
+                  <td>臉書</td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>遠傳電信</td>
+                  <td>Yahoo 奇摩</td>
+                  <td>PTT</td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>台灣大哥大</td>
+                  <td>不知道還有什麼</td>
+                  <td>不知道還有什麼</td>
                 </tr>
               </tbody>
             </table>
@@ -59,32 +54,28 @@ permalink: /issues/
             <table class="bordered">
               <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>行為者</th>
+                    <th>法規依據</th>
+                    <th>問題</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>衛福部中央健保局</td>
+                  <td>健保法</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>醫療單位</td>
+                  <td>醫療法</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
+                  <td>保險業者</td>
+                  <td>保險法</td>
+                  <td></td>
                 </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
+             
               </tbody>
             </table>
           </div>
@@ -100,31 +91,26 @@ permalink: /issues/
             <table class="striped">
               <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>行為者</th>
+                    <th>法規依據</th>
+                    <th>問題</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>財政部國稅局</td>
+                  <td>稅法</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>聯合徵信中心</td>
+                  <td>無法源</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>信用卡中心</td>
+                  <td>銀行法？消費者保護法？</td>
+                  <td></td>
                 </tr>
               </tbody>
             </table>

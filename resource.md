@@ -19,7 +19,7 @@ permalink: /resource/
                         
 
 <div class="divider"></div>
-##### Responsible Data
+##### Responsible Data 盡責資料管理
  - 相關中文介紹
  -   
  

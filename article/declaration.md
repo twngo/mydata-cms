@@ -1,6 +1,6 @@
 ---
 layout: article
-title: MyData 宣言中譯
+title: MyData 宣言中文版
 permalink: /declaration
 ---
 

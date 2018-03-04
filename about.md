@@ -15,11 +15,7 @@ MyData 啟動於 2016年，以北歐國家......
 
 <div class="divider"></div>
 ##### 台灣成員與運作現況
- - Crystal Tu
- - TH Schee
- - jxtsai
- - 
- - 
+ 
 
 請見[「關注議題」區](/issues)之介紹說明
 
