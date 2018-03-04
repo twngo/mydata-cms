@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'MyData Network 0.2 '
+title: 'MyData Network 0.2'
+categories:
 author: jxtsai
 ---
 

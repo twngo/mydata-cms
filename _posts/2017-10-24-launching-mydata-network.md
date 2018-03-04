@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MyData.Network 上線"
-categories: junk
+categories:
 author: "MyData Taiwan"
 ---
 
