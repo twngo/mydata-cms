@@ -1,8 +1,10 @@
 ---
-layout: article
-title: MyData 宣言中文版
+layout: page
+title: MyData 宣言
 permalink: /declaration
 ---
+
+<h1 class="page-title orange-text">{{ page.title | escape }}</h1>
 
 #### 前言
 

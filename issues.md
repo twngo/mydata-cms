@@ -4,7 +4,7 @@ title: 關注議題
 permalink: /issues/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title orange-text">{{ page.title | escape }}</h1>
 
 
 <div class="section">

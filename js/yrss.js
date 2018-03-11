@@ -10,16 +10,16 @@
         
         // plugin defaults
         var defaults = {
-            ssl: false,
+            ssl: true,
             limit: 10,
             showerror: true,
             errormsg: '',
-            tags: false,
+            tags: true,
             date: true,
             dateformat: 'default',
             titletag: 'h4',
             content: true,
-            image: false,
+            image: true,
             snippet: true,
             snippetlimit: 120,
             linktarget: '_self'

@@ -4,7 +4,7 @@ title: MyData 介紹
 permalink: /about/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title orange-text">{{ page.title | escape }}</h1>
 
 ##### 成立背景
 MyData 啟動於 2016年，以北歐國家......

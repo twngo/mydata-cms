@@ -4,7 +4,7 @@ title: 資源工具
 permalink: /resource/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title orange-text">{{ page.title | escape }}</h1>
 
 先整理一下這區的架構，未來會以 rss /grid 嵌入來放外站消息（ex. mydata-taiwan on Medium），省去還要使用 git 更新內容的麻煩。
 這些子標題以後會以 dropdown menu 方式，首頁可以挑選主選單底下分類。
