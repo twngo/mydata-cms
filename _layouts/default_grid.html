@@ -18,7 +18,7 @@
 
 
   <script>
-                    var feed1 = 'https://medium.com/feed/@mydata_taiwan';
+                    var feed1 = 'https://netpolicy.taipei.io/feed';
                     $('#feed1').rssfeed(feed1, {
                         ssl: true,
                         limit: 6,
@@ -37,20 +37,16 @@
                     // optional callback function
                 });
                
-               	 var feed2 = 'https://medium.twngo.xyz/feed';
+               	 var feed2 = 'https://medium.com/feed/@mydata_taiwan';
                     $('#feed2').rssfeed(feed2, {
                         ssl: true,
-                        limit: 6,
+                        limit: 3,
                         showerror: true,
                         errormsg: '',
                         tags: true,
-                        date: true,
-                        dateformat: 'spellmonth',
-                        titletag: 'h4',
-                        content: true,
                         image: false,
                         snippet: true,
-                        snippetlimit: 120,
+                        snippetlimit: 80,
                         linktarget: '_blank'
                 }, function () {
                     // optional callback function
