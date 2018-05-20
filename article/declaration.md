@@ -41,6 +41,7 @@ permalink: /declaration
 
 請注意：不管是個人還是組織，都可能同時具有多重的任務或角色。
 
+
 ![](https://i.imgur.com/zQqi2cE.png)
 
 ##### 個人
